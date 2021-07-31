@@ -8,9 +8,9 @@ ENV STEAM_PORT_1=8766  \
     RCON_PASSWORD="rcon-password" \
     # Server informations
     SERVER_NAME="pzserver" \
-    SERVER_PASSWORD="" \
-    SERVER_PUBLIC_NAME="Project Zomboid Server" \
-    SERVER_PUBLIC_DESC="" \
+    SERVER_PASSWORD="badatfishing" \
+    SERVER_PUBLIC_NAME="Don't Peek Me Bro Server" \
+    SERVER_PUBLIC_DESC="Hosted by the Don't Peek Me Bro Discord server!" \
     SERVER_BRANCH="" \
     SERVER_BETA_PASSWORD="" \
     # Admin DB Password (required for the first launch)
